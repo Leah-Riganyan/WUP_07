@@ -68,4 +68,6 @@ The inferential results are showing us the amount of people that are dead and al
    
    
 ## Conclusions
+  
+We took a look at the data sets for people in Korea and their rates of death compared by sex. Males seem to be dying more of Covid than females in Korea. The percentage difference is that 36% of women are dead, while 64% of men are dead. The sample looked at 1831 females and 1411 males, meaning that 25 women and 44 men died, showing us that Covid affects males a lot more compared to women.
 
