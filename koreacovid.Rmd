@@ -57,7 +57,15 @@ The numerical results show us that 36% of females are dying, while the males are
 ## Inferential results 
 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
-
+The inferential results are showing us the amount of people that are dead and alive due to Covid. It shows us that 1831 females and 1411 males are alive. While 25 females and 44 males are dead. Looking at the observed count to the expected null, we can see that this goes against the expected null count. Covid seems to kill males over females, the odds ratio being 2.3.
+   
+   
+   
 ## Conclusions
 
