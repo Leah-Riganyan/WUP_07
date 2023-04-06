@@ -51,8 +51,8 @@ table1 <- xtabs(~result + Sex, data=kRdata)
 rowPerc(table1)
 colPerc(table1)
 ```
-
-
+   
+The numerical results show us that 36% of females are dying, while the males are dying at 64%. Meaning that 56% of females are alive while only 44% of males are alive.
 
 ## Inferential results 
 
