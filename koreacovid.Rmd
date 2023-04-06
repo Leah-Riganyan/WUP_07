@@ -39,8 +39,8 @@ barchartGC(~result + Sex,data=kRdata)
 barchartGC(~result + Sex,data=kRdata, type="percent")
 
 ```
-
   
+The bar graph shows us that males are dying a lot more than females are. Looking at the entire population, women have a higher chance of being alive when compared to men.
 
 
 
